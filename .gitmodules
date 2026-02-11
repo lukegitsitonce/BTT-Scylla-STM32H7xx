@@ -6,7 +6,7 @@
 	url = https://github.com/grblHAL/Plugin_EEPROM
 [submodule "networking"]
 	path = networking
-	url = https://github.com/lukegitsitonce/Plugin_networking.git
+	url = https://github.com/grblHAL/Plugin_networking
 [submodule "sdcard"]
 	path = sdcard
 	url = https://github.com/grblHAL/Plugin_SD_card
